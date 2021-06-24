@@ -2,6 +2,8 @@
 
 Welcome to Julián Montenegro Bigbox's Challenge 2021. The following will contain the answer for Bog Box challenge, made by Julián Montenegro DNI 34953786.
 
+
+This application is hosted in Netlify at: https://loving-albattani-721d8d.netlify.app/
 ---
 
 ### Project setup
